@@ -16,7 +16,7 @@ The repository is organized into two main directories:
 - **Statistics and Probability**
 
 Description of the first project:
-Please load the attached mtcars dataset into SPSS and present the following in a report and upload it in pdf format.
+load the attached mtcars dataset into SPSS and present the following in a report and upload it in pdf format.
 1. data loading the dataset in SPSS
 2. Provide appropriate descriptive statistics tables for all variables.
 3. Provide appropriate charts for all variables
@@ -40,16 +40,3 @@ In both Dataset1 and Dataset2:
 - **Languages & Platforms:**
   - Python
   - SPSS (IBM Statistical Package for the Social Sciences)
-
-## 🚀 Getting Started
-
-To explore the Python-based projects:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/samin-naji/statistical_projects.git
-   cd statistical_projects
-
-2. Install the required dependencies:
-    ```bash
-    pip install -r requirements.txt
